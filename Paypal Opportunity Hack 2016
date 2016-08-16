@@ -1,5 +1,11 @@
 Summary:
-During this hackathon each team was assigned a non-profit to work with. Our task was to develop a way for our assigned non-profit to collect information from potential and current members. Their current system was pages of <form>s within their site. They wanted this information to feed into their Salesforce database while also being visually appealing and easy to use. Because two teams wanted to work with this organization we split up the work into two groups 1: Data Collection and 2: Data Visualization. We were the Data Collection group.
+During this hackathon each team was assigned a non-profit to work with. Our task was 
+to develop a way for our assigned non-profit to collect information from potential 
+and current members. Their current system was pages of <form>s within their site. 
+They wanted this information to feed into their Salesforce database while also being 
+visually appealing and easy to use. Because two teams wanted to work with this organization 
+we split up the work into two groups 1: Data Collection and 2: Data Visualization. 
+We were the Data Collection group.
 
 We decided that based on the clients budget of $0 it was best to go with something that was as low cost as possible because free is not always an option. We chose Zoho Forms and Zoho CRM because of their tight integration and then used Zapier to transfer the data to Salesforce. We had to include Zoho CRM in order to re-classify some of the fields in a way that Salesforce would accept through Zapier. Salesforce is very picky.
 
