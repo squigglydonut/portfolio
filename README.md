@@ -1,2 +1,2 @@
 # portfolio
-my portfolio to-date
+Thanks for your interest in my portfolio!
