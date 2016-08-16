@@ -2,7 +2,7 @@
 <p>During this hackathon each team was assigned a non-profit to work with. Our task was to develop a way for our assigned non-profit to collect information from potential and current members. Their current system was pages of forms within their site. They wanted this information to feed into their Salesforce database while also being visually appealing and easy to use. Because two teams wanted to work with this organization we split up the work into two groups and we were the Data Collection group</p>
 * Data Collection 
 * ~~Data Visualization~~
-
+![alt text](https://github.com/squigglydonut/portfolio/blob/master/Paypal-Opportunity-Hack-2016/imgs/Slice%201.png "hello")
 <p>We decided that based on the clients budget of $0 it was best to go with something that was as low cost as possible because free is not always an option. We chose Zoho Forms and Zoho CRM because of their tight integration and then used Zapier to transfer the data to Salesforce. We had to include Zoho CRM in order to re-classify some of the fields in a way that Salesforce would accept through Zapier. Salesforce is very picky.</p>
 
 <p>What you see above is a conceptual grid meant to be within a form. The organization we worked with wanted a survey tool that was concise and easy to understand. While this isn't a novel idea, it allowed me to imagine form elements that are stylistically similar to Zoho Form. The left hand column lists cities that the member operates in while the top row lists what they do in each city. As an international organization you might do many things in many places. This concept allows you to succinctly record what you do.</p>
