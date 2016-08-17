@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://github.com/squigglydonut/portfolio/blob/master/Paypal-Opportunity-Hack-2016/imgs/opportunityhack.png">
-</p>
-<p align="center">
+<br></br>
 <img src="https://github.com/squigglydonut/portfolio/blob/master/Paypal-Opportunity-Hack-2016/imgs/POH-banner.png">
 </p>
 <h1>Summary</h1>
