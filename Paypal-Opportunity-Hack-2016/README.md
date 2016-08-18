@@ -1,7 +1,5 @@
 <p align="center">
-<img src="https://github.com/squigglydonut/portfolio/blob/master/Paypal-Opportunity-Hack-2016/imgs/opportunityhack.png">
-<br></br>
-<img src="https://github.com/squigglydonut/portfolio/blob/master/Paypal-Opportunity-Hack-2016/imgs/POH-banner.png">
+<img src="https://github.com/squigglydonut/portfolio/blob/master/Paypal-Opportunity-Hack-2016/imgs/oh-banner.png">
 </p>
 <h1>Summary</h1>
 <p>During this hackathon each team was assigned a non-profit to work with. Our task was to develop a way for our assigned non-profit to collect information from potential and current members. Their current system was pages of forms within their site. They wanted this information to feed into their Salesforce database while also being visually appealing and easy to use. Because two teams wanted to work with this organization we split up the work into two groups and we were the Data Collection group.</p>
