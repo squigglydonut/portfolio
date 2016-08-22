@@ -18,10 +18,9 @@
 <h2>Barriers</h2>
 <p>We spent around 80% of our time during the hackathon calling/texting/talking to the client in order to define the problem clearly. Normally, I would spend a lot of time upfront defining expectations and goals, and brainstorming with the client. Because of the nature of the event, it was really difficult to simultaneously build and define the project. The above visualization was built in just the last few hours of the event.</p>
 
+<h2>Shortcomings</h2>
+<p>I would say the biggest lesson learned here is that client expectations can change at any moment. In our case, two hours could mean completely different requirements. While this makes building something difficult it shows just how much work needs to be done with the client prior to actually building anything.</p>
 
 <h2>Further Work</h2>
 <p>If I had more time I would have worked on the front-end for actually building this tool. Zoho Forms can be set up as a shell and you really do whatever you want with it. So it would still fit in this model.</p>
 
-
-<h2>Shortcomings</h2>
-<p>I would say the biggest lesson learned here is that client expectations can change at any moment. In our case, two hours could mean completely different requirements. While this makes building something difficult it shows just how much work needs to be done with the client prior to actually building anything.</p>
