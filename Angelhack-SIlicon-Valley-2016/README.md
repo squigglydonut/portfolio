@@ -1,5 +1,5 @@
 <p align="center">
-<img src=#></p>
+<img src="https://github.com/squigglydonut/portfolio/blob/master/Angelhack-SIlicon-Valley-2016/imgs/Plenty%20of%20Bots%20App.gif"></p>
 <h1>Summary</h1>
 <p></p>
 
