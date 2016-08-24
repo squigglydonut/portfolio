@@ -1,5 +1,5 @@
 <p align="center">
-<img src=""></p>
+<img src="http://angelhack.com/wp-content/uploads/2016/02/AngelHack.png"></p>
 <h1>Summary</h1>
 <p></p>
 
