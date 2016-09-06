@@ -1,5 +1,5 @@
 <p align="center">
-<img src=""></p>
+<img src="https://github.com/squigglydonut/portfolio/blob/master/NVIDIA-Machine-Learning-Hackathon/imgs/banner.png"></p>
 <h1>Summary</h1>
 <p></p>
 
