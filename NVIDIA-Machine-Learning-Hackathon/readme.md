@@ -9,12 +9,16 @@
 <p></p>
 
 <h2>Barriers</h2>
-<p>Because this was a Machine Learning hackathon, we build our idea not as an aggregation platform but more as a matching platform. "Features" are very important in ml applications so we decided to focus on one type of applicant, a data scientist, and train the algorithm to detect one. We originally attempted to scrape github profiles but found the information provided in bio's is often missing and would mislead our feature set. We settled on StackOverflow profiles as they include a lot of credibility and ratings and would allow us to determine what a good data scientist looked like and what "not-a-data-scientist" looked like.</p>
+<p>Because this was a Machine Learning hackathon, we built our idea not as an aggregation platform but more as a matching platform. "Features" are very important in ml applications so we decided to focus on one type of applicant, a data scientist, and train the algorithm to detect one. We originally attempted to scrape github profiles but found the information provided in bio's is often missing and would mislead our feature set. We settled on StackOverflow profiles as they include a lot of credibility and ratings and would allow us to determine what a good data scientist looked like and what "not-a-data-scientist" looked like.</p>
 
 <h2>Shortcomings</h2>
 The design had too many screens because we had a hard time determining what the core value of our product was. By the end of the event we had successfully trained our algorithm (2 data scientist on our team) but our automatic job application "applyer" worked only on platforms without captcha.
 
 <h2>Further Work</h2>
 I think the job market will become 3 things. 
-* Applications will aggregate
+* Applications will aggregate so that an applicants profile gets added "to the pool"
+* Companies will know exactly who they need to hire
+* Companies will be able to source from the maximum number of applicants
+
+So I think future work would involve consolidating this idea into one of those categories and "solving one problem really well".
 
