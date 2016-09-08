@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/squigglydonut/portfolio/blob/master/NVIDIA-Machine-Learning-Hackathon/imgs/banner.png"></p>
+<img src=""></p>
 <h1>Summary</h1>
 <p></p>
 
 <h2>What I Built</h2>
-<img src="https://github.com/squigglydonut/portfolio/blob/master/NVIDIA-Machine-Learning-Hackathon/imgs/stevesjobs.gif"></p>
+<img src=""></p>
 
 
 <h2>Barriers</h2>
