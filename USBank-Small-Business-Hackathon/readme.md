@@ -1,5 +1,4 @@
 <p align="center">
-<img src=""></p>
 <h1>Summary</h1>
 <p></p>
 
