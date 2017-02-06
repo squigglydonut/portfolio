@@ -1,5 +1,11 @@
 # Portfolio
 Thanks for your interest in my portfolio!
+For all current stuff please see https://dribbble.com/squigglydonut
+
+All this is very old but gives you a sense of where I'm coming from and my journey. Thanks for looking!
+
+-------------
+
 This repository contains hackathon projects, self-guided learning, and any work I've completed that displays my interest in and aptitude for ux design.
 
 <h2>Hackathons</h2>
